@@ -1,0 +1,79 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+h1{
+    color: darkblue;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+p{
+    font-size: 20px;
+}
+
+h2{
+    color: royalblue;
+}
+
+.lider{
+    font-size: 22px;
+}
+.alboms{
+    ;font-size: 30px;
+    color: blue;
+    font-weight: 700;
+}
+li{
+    font-size: 25px;
+}
+
+.iphone{
+    background: mistyrose;
+    width: 400px;
+    height: 300px;
+    border: 5px solid red;
+}
+.title-1{
+    text-align: center;
+    color: blue;
+    text-transform: uppercase;
+}
+
+
+.samsung{
+    background: darkblue;
+    width: 400px;
+    height: 300px;
+    border: 5px solid  darkmagenta;
+
+}
+.title-2{
+    text-align: center;
+    text-transform: uppercase;
+    color: cornsilk;
+}
+
+.samsung-list{
+    color: white;
+}
+
+.xiaomi{
+    background: brown;
+    width: 400px;
+    height: 300px;
+    border: 5px solid blue;
+}
+.title-3{
+    text-transform: uppercase;
+    color: floralwhite;
+    text-align: center;
+}
+.xiaomi-list{
+    color: white;
+}
